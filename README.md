@@ -11,3 +11,8 @@ cart. sh
 mysql. sh
 shipping. service
 shipping. sh
+rabbitmq. repo
+rabbitmq. sh
+payment. service 
+paymemt. sh
+dispatch. sh # create it outside, not included in roboshop project..
